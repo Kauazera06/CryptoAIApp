@@ -1,0 +1,11 @@
+streamlit
+ccxt
+pandas
+numpy
+ta
+scikit-learn
+lightgbm
+joblib
+matplotlib
+plotly
+optuna
